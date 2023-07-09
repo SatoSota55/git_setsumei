@@ -1,0 +1,10 @@
+diff a/uuu.txt b/uuu.txt	(rejected hunks)
+@@ -6,4 +6,5 @@
+ 普通にCドライブのテキストファイルから変更すれば、sourcetreeに反映されるよ。
+ （sourcetreeからでも書き加えられるよ。）
+ 樹形図は上に伸びていきます。
+-赤いマーカーが前回変更した内容で緑のマーカーが今回変更した内容です。
+\ No newline at end of file
++赤いマーカーが前回変更した内容で緑のマーカーが今回変更した内容です。
++uii
+\ No newline at end of file
